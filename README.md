@@ -32,5 +32,6 @@ There are significant drawbacks to my pipeline:
 analyses.
 2) The dataset does not contain equal amount of information for both types.
 This toy version of Hansa was thus implemented.
+3) This pipeline is not reproducible on other datasets.
 I also used the internet and AI to help me understand the concepts in the paper and to help
 me debug the code.
